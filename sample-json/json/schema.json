@@ -1,0 +1,7 @@
+{
+  "type": "schema",
+  "name": "sample-app",
+  "tables": [
+    "user"
+  ]
+}

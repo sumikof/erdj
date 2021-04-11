@@ -1,0 +1,18 @@
+{
+  "type": "table",
+  "name": "user",
+  "columns": [
+    {
+      "name": "id",
+      "type": "Integer",
+      "size": 32,
+      "description": ""
+    },
+    {
+      "name": "username",
+      "type": "Varchar2",
+      "size": 60,
+      "description": ""
+    }
+  ]
+}
